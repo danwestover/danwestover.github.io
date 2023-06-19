@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: daniel-westover-379770102
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: danwestover
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: danwestover.github.io
 
 #The email you'd like people to contact you with.
-email: /
+email: westover.daniel.j@gmail.com

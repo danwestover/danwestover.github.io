@@ -1,7 +1,7 @@
 ---
-title: Your Website
-author: Your Name Here
-description: "A quick website description"
+title: Dan Westover
+author: Dan Westover
+description: "Personal website for Dan Westover"
 layout: default
 permalink: /
 ---
